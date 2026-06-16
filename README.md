@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Alejandro Ramírez Quezada 👋
 
-<!--
-**webahna/webahna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer y fundador de Webahna.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js
+- React
+- Astro
+- Node.js
+- NestJS
+- Express
+- Prisma
+- MySQL
+- PostgreSQL
+- AWS
+
+## 💼 Experiencia
+
+Fundador de Webahna, donde desarrollo sitios web, ecommerce y soluciones personalizadas para negocios.
+
+## 📌 Proyectos Destacados
+
+### Webahna
+Sitio web corporativo desarrollado con Astro.
+
+### DecoStore
+Landing optimizada para SEO enfocada en instalación de césped sintético y acabados residenciales.
+
+### Sistema de Rifas
+Plataforma para sorteos online con gestión de pagos y participantes.
+
+### Intrepido
+Ecommerce de fundas personalizadas desarrollado con Next.js.
+
+## 🌐 Sitio web
+
+https://www.webahna.com
